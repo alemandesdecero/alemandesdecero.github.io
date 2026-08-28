@@ -1,0 +1,488 @@
+{
+  "status": "READY_FOR_DEPLOYMENT_PENDING_PUBLIC_URL_QC",
+  "base_url": "https://alemandesdecero.github.io/svenska/bokstavsbok",
+  "page_count": 31,
+  "audio_count": 31,
+  "tracking": false,
+  "registration": false,
+  "synthetic_voice_disclosed": true,
+  "pages": [
+    {
+      "slug": "a",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/a",
+      "audio": "audio/a.mp3"
+    },
+    {
+      "slug": "b",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/b",
+      "audio": "audio/b.mp3"
+    },
+    {
+      "slug": "c",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/c",
+      "audio": "audio/c.mp3"
+    },
+    {
+      "slug": "d",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/d",
+      "audio": "audio/d.mp3"
+    },
+    {
+      "slug": "e",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/e",
+      "audio": "audio/e.mp3"
+    },
+    {
+      "slug": "f",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/f",
+      "audio": "audio/f.mp3"
+    },
+    {
+      "slug": "g",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/g",
+      "audio": "audio/g.mp3"
+    },
+    {
+      "slug": "h",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/h",
+      "audio": "audio/h.mp3"
+    },
+    {
+      "slug": "i",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/i",
+      "audio": "audio/i.mp3"
+    },
+    {
+      "slug": "j",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/j",
+      "audio": "audio/j.mp3"
+    },
+    {
+      "slug": "k",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/k",
+      "audio": "audio/k.mp3"
+    },
+    {
+      "slug": "l",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/l",
+      "audio": "audio/l.mp3"
+    },
+    {
+      "slug": "m",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/m",
+      "audio": "audio/m.mp3"
+    },
+    {
+      "slug": "n",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/n",
+      "audio": "audio/n.mp3"
+    },
+    {
+      "slug": "o",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/o",
+      "audio": "audio/o.mp3"
+    },
+    {
+      "slug": "p",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/p",
+      "audio": "audio/p.mp3"
+    },
+    {
+      "slug": "q",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/q",
+      "audio": "audio/q.mp3"
+    },
+    {
+      "slug": "r",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/r",
+      "audio": "audio/r.mp3"
+    },
+    {
+      "slug": "s",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/s",
+      "audio": "audio/s.mp3"
+    },
+    {
+      "slug": "t",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/t",
+      "audio": "audio/t.mp3"
+    },
+    {
+      "slug": "u",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/u",
+      "audio": "audio/u.mp3"
+    },
+    {
+      "slug": "v",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/v",
+      "audio": "audio/v.mp3"
+    },
+    {
+      "slug": "w",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/w",
+      "audio": "audio/w.mp3"
+    },
+    {
+      "slug": "x",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/x",
+      "audio": "audio/x.mp3"
+    },
+    {
+      "slug": "y",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/y",
+      "audio": "audio/y.mp3"
+    },
+    {
+      "slug": "z",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/z",
+      "audio": "audio/z.mp3"
+    },
+    {
+      "slug": "aa",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/aa",
+      "audio": "audio/aa.mp3"
+    },
+    {
+      "slug": "ae",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/ae",
+      "audio": "audio/ae.mp3"
+    },
+    {
+      "slug": "oe",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/oe",
+      "audio": "audio/oe.mp3"
+    },
+    {
+      "slug": "stavelser-1",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/stavelser-1",
+      "audio": "audio/stavelser-1.mp3"
+    },
+    {
+      "slug": "stavelser-2",
+      "url": "https://alemandesdecero.github.io/svenska/bokstavsbok/stavelser-2",
+      "audio": "audio/stavelser-2.mp3"
+    }
+  ],
+  "files": [
+    {
+      "path": "a/index.html",
+      "bytes": 1351,
+      "sha256": "249C9DC5E45C74F4001EF1211049A76FCA8F8938BCA22B842133E8AF2D8DBB3D"
+    },
+    {
+      "path": "aa/index.html",
+      "bytes": 1417,
+      "sha256": "3C8A83CFC253B7BC1DB70F35077CEB4F5A43DBC01EA1A578383D0228104B1364"
+    },
+    {
+      "path": "ae/index.html",
+      "bytes": 1422,
+      "sha256": "637B4C66305620F8250F6D705DA40436A9319A9DC6D0F47329F5E52918D1923E"
+    },
+    {
+      "path": "audio/a.mp3",
+      "bytes": 150510,
+      "sha256": "B51C586F2BAF5472E998A9ECF07CDE5A69B81019605AA03E708F2C80F60F417E"
+    },
+    {
+      "path": "audio/aa.mp3",
+      "bytes": 147062,
+      "sha256": "1F19BBBDD7A3F3D1E818F68CB1AD298F6FE3BC83CD7CB04E8B99B1E587C3DD50"
+    },
+    {
+      "path": "audio/ae.mp3",
+      "bytes": 162735,
+      "sha256": "FDB30E053CBDC31688AD968AA2216362F147DC026CBAE41CA21B2F9E7BBE4507"
+    },
+    {
+      "path": "audio/b.mp3",
+      "bytes": 150823,
+      "sha256": "307D6B26E619796E7AF759D8B55CDA8FE9EA2FA86D60F93822FF2E2C58F36D70"
+    },
+    {
+      "path": "audio/c.mp3",
+      "bytes": 163362,
+      "sha256": "4E39816ECFEC104F64F0077B7CEBF1C88ED64C8496D42E4CBEADB4DA82A49B1E"
+    },
+    {
+      "path": "audio/d.mp3",
+      "bytes": 156466,
+      "sha256": "F3F86FB4E1CC5D7F16FBC0B15E8F73ABB408738FE2DFA8A68345408845649FD7"
+    },
+    {
+      "path": "audio/e.mp3",
+      "bytes": 155525,
+      "sha256": "02FA540474FB89F5E422BC75A994640F0419E9BF793401941CD1E472E1775DBD"
+    },
+    {
+      "path": "audio/f.mp3",
+      "bytes": 161168,
+      "sha256": "7E67F40444938822BB60E57881F30C77AFD83DCF7FCF83F63CC3AABA00CB2024"
+    },
+    {
+      "path": "audio/g.mp3",
+      "bytes": 149569,
+      "sha256": "5AD1D67C73FC5305AA03CD077C1B687BD00791384DB661D45814DB916C7FF230"
+    },
+    {
+      "path": "audio/h.mp3",
+      "bytes": 158347,
+      "sha256": "B5759EB8E16551F663C3B338DDE0ED46A7BC923DFAB0FD554E405191EAF98CD6"
+    },
+    {
+      "path": "audio/i.mp3",
+      "bytes": 163049,
+      "sha256": "9260703198A4BE66ED42A9B1E2B807EDF28A4A9B7BE568B3873063A0D5BF1ABC"
+    },
+    {
+      "path": "audio/j.mp3",
+      "bytes": 156466,
+      "sha256": "DD94DD4EFA574EDBA6CA957BAFDC3F8E174A432800D5887901F6D3663CF13B1F"
+    },
+    {
+      "path": "audio/k.mp3",
+      "bytes": 156779,
+      "sha256": "1E53EFB87D0F703284AB42F6EEA8921EDD71CC9CAEC2F9A9B30562B55906305B"
+    },
+    {
+      "path": "audio/l.mp3",
+      "bytes": 159600,
+      "sha256": "567047EF8203DFC85C3B96576C6480B1B8AB50F3985502725295362E7146DA61"
+    },
+    {
+      "path": "audio/m.mp3",
+      "bytes": 157093,
+      "sha256": "1431BDE1662825B13832FD5DB3BE0D6060C2E0EB274BE43DE0AACCD9F9F2A44B"
+    },
+    {
+      "path": "audio/n.mp3",
+      "bytes": 167437,
+      "sha256": "8FF7C185E8196C6C12066F238D2F084F389AB657E6302AFF9D7C406EF6EE9021"
+    },
+    {
+      "path": "audio/o.mp3",
+      "bytes": 149883,
+      "sha256": "459B249E3F11E7F071E1F1D5872C46E76BA6A7E4FA1DDDA9DDBB0BF372D842F6"
+    },
+    {
+      "path": "audio/oe.mp3",
+      "bytes": 155525,
+      "sha256": "B47429E86085C9D65E5182A6303D1F057315E967015914E4536BF6638137E479"
+    },
+    {
+      "path": "audio/p.mp3",
+      "bytes": 151137,
+      "sha256": "126DCA5F6AF13480890D08852DD7E34D37CAA5E9526CFE00A9B86DA29DF780C7"
+    },
+    {
+      "path": "audio/q.mp3",
+      "bytes": 144867,
+      "sha256": "31A3DD8FA41D966A38B452F2C300A2E093E0FE39587A161765B37474C7B990DE"
+    },
+    {
+      "path": "audio/r.mp3",
+      "bytes": 170258,
+      "sha256": "42FDBCCF6700FA97EB055BDF19CE2FF543BB89598F2D9F6FADB293C9B2C87F77"
+    },
+    {
+      "path": "audio/s.mp3",
+      "bytes": 163049,
+      "sha256": "EC4E6491D1D9C17AB482AFB27A697767B40D0933BE3B2A81361203C81703A67E"
+    },
+    {
+      "path": "audio/stavelser-1.mp3",
+      "bytes": 979323,
+      "sha256": "36EBD91B24522402AB9CBDDA7D4AA11F375397BC07479AA6686815435662C5A6"
+    },
+    {
+      "path": "audio/stavelser-2.mp3",
+      "bytes": 994683,
+      "sha256": "6D99A27E1C041C73D2424A948599C6204130784E67CFB4D3E606EBD83D56F0B4"
+    },
+    {
+      "path": "audio/t.mp3",
+      "bytes": 152391,
+      "sha256": "044EAE66FF6FDFAF8BDB845A3A9BA895A8CC5B8D3BB89E89BFE8F2A4259B6594"
+    },
+    {
+      "path": "audio/u.mp3",
+      "bytes": 153958,
+      "sha256": "D6648043D89281E53FD5F8C93FF4065E10EB15D8BB889E3C33207149A462E628"
+    },
+    {
+      "path": "audio/v.mp3",
+      "bytes": 163676,
+      "sha256": "98210D7D3FF8DF578DCF2A4BC6A8A8434C4B7783E3A5A23016C4E93C4271C5AC"
+    },
+    {
+      "path": "audio/w.mp3",
+      "bytes": 182484,
+      "sha256": "8253DC27B682E05D79076205F1FE5FF0CD5478605EBAB4FF047C00F6A45C0118"
+    },
+    {
+      "path": "audio/x.mp3",
+      "bytes": 166497,
+      "sha256": "410D7016012CE3A46B7767AFA47857954DFA66BFF11AF2F52652B62297ED3212"
+    },
+    {
+      "path": "audio/y.mp3",
+      "bytes": 158347,
+      "sha256": "431F4F86C39D6FECF55315A32ADF903951DE541A95961B56EF7AA936ECB65B74"
+    },
+    {
+      "path": "audio/z.mp3",
+      "bytes": 169005,
+      "sha256": "45A26AC4BE949736910E6A4EF9A8566950787F0F52B53A0C72C1336514AC5608"
+    },
+    {
+      "path": "b/index.html",
+      "bytes": 1410,
+      "sha256": "4ACEE4F5317EB5E308985AF35127F7654C46FB2C914955DBB492D14E3B4A7ED4"
+    },
+    {
+      "path": "c/index.html",
+      "bytes": 1416,
+      "sha256": "F9F8C992001ABDF55C639CFD7E0860AFF2EE35B0DDD862D334E985126D5A019B"
+    },
+    {
+      "path": "d/index.html",
+      "bytes": 1406,
+      "sha256": "0B391BB7C47C47A0049D35587E16CB94DA86C582EE7033018B333A44866C82ED"
+    },
+    {
+      "path": "e/index.html",
+      "bytes": 1414,
+      "sha256": "989305F581C6B557F04CF2AFB0B35F325DC2CEC235B93249537F9DEE01175944"
+    },
+    {
+      "path": "f/index.html",
+      "bytes": 1408,
+      "sha256": "6132F4C8A9CBA6054EF686FDE2B17B6D94BA32D62BB764C59B8D54AC612BE4DF"
+    },
+    {
+      "path": "g/index.html",
+      "bytes": 1406,
+      "sha256": "CBE1F8071C03DF2359882FAC6644E339C4C28520684AA3E93C304E75308D0ACF"
+    },
+    {
+      "path": "h/index.html",
+      "bytes": 1404,
+      "sha256": "60B734BFC89F155DD665C73B8C2715DA457CF9E3BDE4213A9D96F6CA90EBB66F"
+    },
+    {
+      "path": "i/index.html",
+      "bytes": 1418,
+      "sha256": "99F0A6AD19DD79D4EF52335B6C905134011ABCF5DBB3F4B9B5504E14EF395544"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2164,
+      "sha256": "B06B711D7B4E4B9B1373D0F550A66285E57249B617A566FFEB4DD9DDE236D04A"
+    },
+    {
+      "path": "j/index.html",
+      "bytes": 1428,
+      "sha256": "1A83E71DD3EA5077CE398157298E1CFCA1C80BF2494BCC9C886C9B055521C59C"
+    },
+    {
+      "path": "k/index.html",
+      "bytes": 1402,
+      "sha256": "6FAD6270EABACC0B1F1991ABB8F4B53D800787CEC84DC0EFB4678581414A9BB0"
+    },
+    {
+      "path": "l/index.html",
+      "bytes": 1412,
+      "sha256": "30BEFB11A00C10EC3F6D3FB920F59CAEC1A64CD2AAAFD283617ED991C012F15D"
+    },
+    {
+      "path": "m/index.html",
+      "bytes": 1412,
+      "sha256": "0F3BF8A599D2DC041D18F5E5D9A91C77A9942FFD9AC95EA93BEE576950C33AEF"
+    },
+    {
+      "path": "n/index.html",
+      "bytes": 1416,
+      "sha256": "D48A76502BF79EDAA5EC1598DBEB0594264C14B1A44E9F79C0D3D2920F476BE8"
+    },
+    {
+      "path": "o/index.html",
+      "bytes": 1398,
+      "sha256": "AEDD17DBC1F9DEF558B675638EA7CEECCC37294B666C7583A62443CB631F8C1A"
+    },
+    {
+      "path": "oe/index.html",
+      "bytes": 1372,
+      "sha256": "B34A1C67D95D10AC3AD5511DD2E28016F16065DE504645A81697C402C4AD3EE0"
+    },
+    {
+      "path": "p/index.html",
+      "bytes": 1410,
+      "sha256": "9195D329C5685997DA719E77CB8193A04EF4D3B0517316946DCF5D2D5D1A6046"
+    },
+    {
+      "path": "q/index.html",
+      "bytes": 1410,
+      "sha256": "3B15807304632308DF3B98614BF2FA9A3D185A575D3E00EAF20F72800A7C3C01"
+    },
+    {
+      "path": "r/index.html",
+      "bytes": 1408,
+      "sha256": "13496C7A18F271D6DDAC45F3B539FD32ABAE1DF5E1C9DFD0F72FB7A250B989E5"
+    },
+    {
+      "path": "s/index.html",
+      "bytes": 1404,
+      "sha256": "8AA8B872173D34D93AA2D1EF80BD5366B8936BC6A61E06FC925156E6AB0A58BA"
+    },
+    {
+      "path": "stavelser-1/index.html",
+      "bytes": 1886,
+      "sha256": "FAD753DB0322F58CE8ADF7191ADAF9542D8AD0C727CB5F5BF286980B99372234"
+    },
+    {
+      "path": "stavelser-2/index.html",
+      "bytes": 1886,
+      "sha256": "DF6750670E2CFC8622CE5168E0A8373FF7030A9DF5BACD57357E8405F2DC8D32"
+    },
+    {
+      "path": "style.css",
+      "bytes": 1772,
+      "sha256": "B02DEE1689B4300C9CB6062FBC2198F45F1D6320C4B44819944B8DCA092344B2"
+    },
+    {
+      "path": "t/index.html",
+      "bytes": 1402,
+      "sha256": "BA0FB31F2466083883AD669E54B7F4D61B44958F13082880502A47E52050471F"
+    },
+    {
+      "path": "u/index.html",
+      "bytes": 1406,
+      "sha256": "54977CB9891AA44DAD5E22F3ABC127996896800D073F3502477BC8AF4264BF35"
+    },
+    {
+      "path": "v/index.html",
+      "bytes": 1404,
+      "sha256": "DA3F2C6B7F8918212DAF01AD203E0944316B228BDA7FA2BFDA7C414D0F4A093D"
+    },
+    {
+      "path": "w/index.html",
+      "bytes": 1436,
+      "sha256": "D3650349C2A69A88D2FD092898C6E114C994B78A9BFB9A7A0FC700D426DBCEEC"
+    },
+    {
+      "path": "x/index.html",
+      "bytes": 1420,
+      "sha256": "B0B24CECB4FCCA82035935A9B1C7420A6BBC12D0C4CE54F4069052A0526266EA"
+    },
+    {
+      "path": "y/index.html",
+      "bytes": 1398,
+      "sha256": "C9486C6E18928F26DD6770E498CF9E3BFBB85856DD52DA5F43643E6E40119E56"
+    },
+    {
+      "path": "z/index.html",
+      "bytes": 1413,
+      "sha256": "58AA885BBD04868D81E6476E77838975ADE64264B5AA89D711493D324382A119"
+    }
+  ]
+}
