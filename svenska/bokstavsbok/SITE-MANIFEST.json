@@ -1,5 +1,6 @@
 {
   "status": "READY_FOR_DEPLOYMENT_PENDING_PUBLIC_URL_QC",
+  "edition": "1.7.2",
   "base_url": "https://alemandesdecero.github.io/svenska/bokstavsbok",
   "page_count": 31,
   "audio_count": 31,
@@ -291,13 +292,13 @@
     },
     {
       "path": "audio/stavelser-1.mp3",
-      "bytes": 823842,
-      "sha256": "8C1C5DA0948B9192BECA4D6D0B7E7B6A626B3A4198666CF1B2C948019E16AE20"
+      "bytes": 1283075,
+      "sha256": "9238A0225060E161EF770F89575D2EBF83F837970965DA5F2B878D52AF44DED5"
     },
     {
       "path": "audio/stavelser-2.mp3",
-      "bytes": 731369,
-      "sha256": "8E6DD2FA8A7C4C485A9ECD5B85EB39F0430A968091256A5B96A6631BF277C9C0"
+      "bytes": 1154552,
+      "sha256": "9A6AFC35BDA519C2C475162F359C83D38FE7799134E34174B58708E907ED9F42"
     },
     {
       "path": "audio/t.mp3",
@@ -436,8 +437,8 @@
     },
     {
       "path": "SITE-MANIFEST.json",
-      "bytes": 13962,
-      "sha256": "E09A80E415C5E68A19E011056588495CE07FF100D62FF034D1B557CCB6EB14F5"
+      "bytes": 14116,
+      "sha256": "680A9105F3197B83371BBA1B31AB305EE39F957A74857F51E1CDCA2BCB0D9C05"
     },
     {
       "path": "stavelser-1/index.html",
