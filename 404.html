@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Seite wird geladen</title>
+  <style>
+    body{font:17px/1.5 system-ui,sans-serif;max-width:42rem;margin:12vh auto;padding:0 1.25rem;color:#1f2937}
+  </style>
+</head>
+<body>
+  <main id="status">Die Seite wird geladen …</main>
+  <script>
+    (() => {
+      const route = location.pathname;
+      const allowed = /^\/misterios\/de(?:\/(?:\d{2}|stimme|libro-1))?\/?$/;
+      if (!allowed.test(route)) {
+        document.documentElement.lang = 'es';
+        document.title = 'Página no encontrada';
+        document.querySelector('#status').innerHTML =
+          '<h1>Página no encontrada</h1><p><a href="/">Volver al inicio</a></p>';
+        return;
+      }
+      const sourcePath = route.endsWith('/') ? route + 'index.html' : route + '/index.html';
+      const source = 'https://raw.githubusercontent.com/alemandesdecero/' +
+        'alemandesdecero.github.io/main' + sourcePath;
+      fetch(source, {cache: 'no-store'})
+        .then(response => {
+          if (!response.ok) throw new Error('HTTP ' + response.status);
+          return response.text();
+        })
+        .then(html => {
+          document.open();
+          document.write(html);
+          document.close();
+        })
+        .catch(() => {
+          document.querySelector('#status').innerHTML =
+            '<h1>Die Seite ist vorübergehend nicht verfügbar</h1>' +
+            '<p>Bitte versuchen Sie es in wenigen Minuten erneut.</p>';
+        });
+    })();
+  </script>
+</body>
+</html>
