@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Kurzgeschichten auf Englisch</title>
+  <style>
+    body{font:17px/1.5 system-ui,sans-serif;max-width:42rem;margin:12vh auto;padding:0 1.25rem;color:#1f2937}
+  </style>
+</head>
+<body>
+  <main id="status">Die Geschichte wird geladen …</main>
+  <script>
+    (() => {
+      const requested = new URLSearchParams(location.search).get('geschichte') || '';
+      const key = /^(?:[0-2][0-9]|30)$/.test(requested) ? requested :
+        (requested === 'stimme' ? requested : '');
+      const sourcePath = key ? `/misterios/de/${key}/index.html` : '/misterios/de/index.html';
+      const source = 'https://raw.githubusercontent.com/alemandesdecero/' +
+        'alemandesdecero.github.io/main' + sourcePath;
+      fetch(source, {cache: 'no-store'})
+        .then(response => {
+          if (!response.ok) throw new Error('HTTP ' + response.status);
+          return response.text();
+        })
+        .then(html => {
+          html = html
+            .replaceAll('../../audio/', '/misterios/audio/')
+            .replace(/href="(?:\.\.\/)?stimme\/"/g, 'href="/krimi/?geschichte=stimme"')
+            .replace(/href="([0-3][0-9])\/"/g, 'href="/krimi/?geschichte=$1"')
+            .replace(/href="\.\.\/"/g, 'href="/krimi/"');
+          document.open();
+          document.write(html);
+          document.close();
+        })
+        .catch(() => {
+          document.querySelector('#status').innerHTML =
+            '<h1>Die Seite ist vorübergehend nicht verfügbar</h1>' +
+            '<p>Bitte versuchen Sie es in wenigen Minuten erneut.</p>';
+        });
+    })();
+  </script>
+</body>
+</html>
